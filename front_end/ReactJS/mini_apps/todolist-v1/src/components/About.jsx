@@ -37,14 +37,14 @@ export default function About(){
                                 </ul>
                             </li>
                             <li>
-                                <h6>This app uses React Hooks:</h6>
+                                <h6>Libraries:</h6>
                                 <ul>
                                     <li>uuid</li>
                                     <li>react-icons</li>
                                 </ul>
                             </li>
                             <li>
-                                <h6>This app uses React Hooks:</h6>
+                                <h6>CSS Styling:</h6>
                                 <ul>
                                     <li>Vanilla CSS</li>
                                 </ul>
